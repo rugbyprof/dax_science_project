@@ -15,7 +15,7 @@
 - Do games help students in the classroom?
     - http://library.cqpress.com/cqresearcher/document.php?id=cqresrre2016021200
     - image http://library.cqpress.com/cqresearcher/file.php?path=/images/CQ_Researcher/r20160212-improvedthinking.gif
-   
+- https://www.popsci.com/three-dimensional-video-games-could-make-your-memory-better
 
 ### Tough Reads
 - Good paper with graphs and such, but a little hard to read:
