@@ -5,17 +5,16 @@
     - Image link: http://cdn.iflscience.com/legacy/sites/www.iflscience.com/files/blog/%5Bnid%5D/Gain2.png
 - Playing Video Games Is Good For Your Brain – Here’s How:
     - http://www.iflscience.com/brain/playing-video-games-good-your-brain-here-s-how/
+    - http://ansonalex.com/wp-content/uploads/2012/03/effect-video-games-brain-infographic.png
 - Video game playing found beneficial for the brain:
     - http://www.kurzweilai.net/video-game-playing-found-beneficial-for-the-brain
-    - good brain scan image
-- Link to image that labels lots of effects on brain.
-    - http://ansonalex.com/wp-content/uploads/2012/03/effect-video-games-brain-infographic.png
-    - good images with graphs and such 
+    - good brain scan image: http://www.kurzweilai.net/images/videoame-effects-on-brain.png
 - 50 Educational Video Games That Homeschoolers Love
     - http://oedb.org/ilibrarian/50-educational-video-games-that-homeschoolers-love/
     - benefits of video games image: http://oedb.org/images/50%20Educational%20Video%20Games%20That%20Homeschoolers%20Love.png
 - Do games help students in the classroom?
     - http://library.cqpress.com/cqresearcher/document.php?id=cqresrre2016021200
+    - image http://library.cqpress.com/cqresearcher/file.php?path=/images/CQ_Researcher/r20160212-improvedthinking.gif
    
 
 ### Tough Reads
