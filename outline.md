@@ -32,9 +32,9 @@ The researchers found that there was no improvement in memory recall when it cam
 <sup>Source: http://www.iflscience.com/brain/3d-videogames-shown-improve-memory-formation/</sup>
 
 ### Preparing to Test Subjects
- 
 
-![](https://www.researchgate.net/profile/Nurit_Gronau/publication/277576584/figure/fig2/AS:294332633501701@1447185776524/Figure-2-Examples-of-the-stimulus-display-in-the-different-conditions-during-the.png)
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S016643281730637X-gr1.jpg)
 
 ### Results of Experiment
 
