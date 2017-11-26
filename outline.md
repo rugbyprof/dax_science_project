@@ -9,4 +9,4 @@ to make indoor/outdoor judgments about each object, using a keyboard to make eac
 
 ![](https://www.researchgate.net/profile/Nurit_Gronau/publication/277576584/figure/fig2/AS:294332633501701@1447185776524/Figure-2-Examples-of-the-stimulus-display-in-the-different-conditions-during-the.png)
 
-<sup>source:[](http://www.jneurosci.org/content/jneuro/35/49/16116.full.pdf)</sup>
+<sup>source:[16116.full.pdf](http://www.jneurosci.org/content/jneuro/35/49/16116.full.pdf)</sup>
