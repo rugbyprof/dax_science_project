@@ -2,7 +2,7 @@
 
 ### Brain Overview:
 
-![]()
+![](brain_overview.png)
 
 - The MST is a recognition memory task originally designed to tax the process of pattern separation (Kirwan and Stark, 2007). 
 - The MST consists of an incidental encoding phase and a test phase (Fig. 1A) in which participants are shown color photos of objects. 
