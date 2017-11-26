@@ -4,6 +4,7 @@
 Not part of research paper, but thought it looked good.
 
 ![](brain_overview.png)
+<sup>http://www.onlineuniversities.com/</sup>
 
 <br><br><br>
 ## Virtual Environmental Enrichment through Video Games Improves Hippocampal-Associated Memory
