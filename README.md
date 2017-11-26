@@ -18,6 +18,7 @@
 - https://www.popsci.com/three-dimensional-video-games-could-make-your-memory-better
 
 ### Tough Reads
+- Good paper! http://www.sciencedirect.com/science/article/pii/S016643281730390X
 - Good paper with graphs and such, but a little hard to read:
      - https://pdfs.semanticscholar.org/f5a4/f67d20348f9ea7ce053bd8794b1b8ecc7d48.pdf
 
