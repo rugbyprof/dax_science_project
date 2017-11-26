@@ -28,6 +28,8 @@ The participants were requested to correctly ascertain which objects belonged to
 
 The researchers found that there was no improvement in memory recall when it came to the 2D gaming group. In terms of the dot and line test, the 3D group didn’t show any improvement either, but when it came to the object identification test, the 3D group of gamers showed a 12 percent average score increase. This is roughly the amount that an average person’s memory recall ability decreases between the ages of 45 and 70.
 
+<sup>Source: http://www.iflscience.com/brain/3d-videogames-shown-improve-memory-formation/</sup>
+
 ### Preparing to Test Subjects
  
 
