@@ -1,23 +1,21 @@
 # Playing Video Games Improves Memory
 
-### Brain Overview:
+## Brain Overview:
+Not part of research paper, but thought it looked good.
 
 ![](brain_overview.png)
 
-
-***Virtual Environmental Enrichment through Video Games Improves Hippocampal-Associated Memory***
-<sup>source: http://www.jneurosci.org/content/jneuro/35/49/16116.full.pdf</sup>
-
-
+<br><br><br>
+## Virtual Environmental Enrichment through Video Games Improves Hippocampal-Associated Memory
+<sup>source: http://www.jneurosci.org/content/jneuro/35/49/16116.full.pdf</sup><br>
 
 ### Paper Overview
 
 For their study, they were interested in the effect of video games on the hippocampus, the region of the brain that is associated with the formation of memories; specifically, it is responsible for consolidating short-term memories into long-term ones. 
 
-
-#### Hippocampal Function
-
-The hippocampus is a small organ located within the brain's medial temporal lobe and forms an important part of the limbic system, the region that regulates emotions. The hippocampus is associated mainly with memory, in particular long-term memory. The organ also plays an important role in spatial navigation.
+>***Hippocampal Function***
+>
+>The hippocampus is a small organ located within the brain's medial temporal lobe and forms an important part of the limbic system, the region that regulates emotions. The hippocampus is associated mainly with memory, in particular long-term memory. The organ also plays an important role in spatial navigation.
 <sup>Source: https://www.news-medical.net/health/Hippocampus-Functions.aspx </sup>
 
 In order to investigate this effect, college students were asked to play one of two games for 30 minutes per day over the course of two weeks. Thirty-nine of the participants were self-described regular gamers, and 29 were non-gamers.
