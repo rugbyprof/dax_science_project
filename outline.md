@@ -1,5 +1,9 @@
 # Playing Video Games Improves Memory
 
+### Brain Overview:
+
+![]()
+
 - The MST is a recognition memory task originally designed to tax the process of pattern separation (Kirwan and Stark, 2007). 
 - The MST consists of an incidental encoding phase and a test phase (Fig. 1A) in which participants are shown color photos of objects. 
 - During the encoding phase, participants were shown 128 pictures of everyday objects [2000 ms duration, 500 ms interstimulus interval (ISI)] and were asked
